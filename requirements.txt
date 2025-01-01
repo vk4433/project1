@@ -4,4 +4,3 @@ ipykernel
 scikit-learn
 tensorflow
 keras
-tensorflow-keras
